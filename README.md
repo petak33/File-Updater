@@ -7,3 +7,6 @@ File-Updater is meant to be used on folders which contents change overtime so in
 
 Dislaimer: 
 For contents of folder to be updated server needs to restart.
+
+Requirments:
+PySimpleGUI
