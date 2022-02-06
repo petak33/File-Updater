@@ -110,7 +110,6 @@ def checksumfiles(directory):
                     if not rdchunk:
                         window['Console'].print('Large File Checksum: 100%')
                         md5output = hashlib.md5(str(rddata).encode('utf-8')).hexdigest()
-                        print(md5output)
                         dm5filelist.append((file + ' ')[len(directory) + 1:-1] + '|' + md5output)
                         break
                     largefileprogress += 1
