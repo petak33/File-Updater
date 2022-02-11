@@ -10,3 +10,5 @@ For contents of folder to be updated server needs to restart.
 
 Requirments:
 PySimpleGUI
+
+![file-updater](https://user-images.githubusercontent.com/64598287/153646882-4afe5bf1-29fe-4b87-a2d3-71d0e6cad70c.PNG)
