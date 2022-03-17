@@ -8,7 +8,4 @@ File-Updater is meant to be used on folders which contents change overtime so in
 Dislaimer: 
 For contents of folder to be updated server needs to restart.
 
-Requirments:
-PySimpleGUI
-
 ![file-updater](https://user-images.githubusercontent.com/64598287/153706432-87283e36-35ef-418d-a086-b4b3a0f14e78.PNG)
