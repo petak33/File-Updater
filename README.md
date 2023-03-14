@@ -8,4 +8,4 @@ File-Updater is meant to be used on folders which contents change overtime so in
 Dislaimer: 
 For contents of folder to be updated server needs to restart.
 
-![file-updater](https://user-images.githubusercontent.com/64598287/200034957-2e61aef1-d927-43d5-ac6a-9ce790c1ee11.PNG)
+![file-updater](https://user-images.githubusercontent.com/64598287/224935085-6080bbfe-274d-4f6c-afda-7d81d441796b.png)
